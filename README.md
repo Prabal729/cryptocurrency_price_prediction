@@ -100,10 +100,10 @@ cryptocurrency_price_prediction/
 | RMSE   | 6870.40       | ✅ **5203.52** |
 | R²     | -0.8996       | ✅ **-0.0897** |
 
-```
-⚠️ Note:
+
+# ⚠️ Note :
 While hyperparameter tuning can enhance model performance, it doesn't always lead to better results in every scenario. Model improvements depend heavily on data quality, feature representation, and underlying patterns—not just parameter optimization.
-```
+
 
 ## 📚 Key Reports
 
