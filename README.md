@@ -55,7 +55,12 @@ Use the sidebar to enter numerical features. Get live predictions using the trai
 cryptocurrency_price_prediction/
 ├── data/
 │   ├── raw/
+│   ├── coin_gecko_2022-03-16.csv
+│   │   └──coin_gecko_2022-03-17.csv
 │   └── processed/
+│     ├── cleaned_crypto_price.csv
+│     ├── features.csv
+│     └── preprocessed_crypto_data.csv
 ├── notebooks/
 │   ├── 01_data_preprocessing.ipynb
 │   ├── 02_eda.ipynb
