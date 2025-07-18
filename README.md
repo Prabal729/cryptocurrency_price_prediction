@@ -101,11 +101,11 @@ cryptocurrency_price_prediction/
 
 ## 📚 Key Reports
 
--eda_report.pdf
--hld_document.pdf
--lld_document.pdf
--pipeline_architecture.pdf
--final_report.pdf
+- EDA.pdf
+- hld.pdf
+- lld.pdf
+- final.pdf
+- pipeline.pdf
 
 ## ✨ Tech Stack
 
