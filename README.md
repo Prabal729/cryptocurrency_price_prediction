@@ -92,3 +92,30 @@ cryptocurrency_price_prediction/
 
 🔁 Pipeline Architecture
 <img src="reports/images/pip.png" width="750"/>
+
+| Metric | Before Tuning | After Tuning  |
+| ------ | ------------- | ------------- |
+| MAE    | 1730.02       | ✅ **1211.72** |
+| RMSE   | 6870.40       | ✅ **5203.52** |
+| R²     | -0.8996       | ✅ **-0.0897** |
+
+📚 Key Reports
+eda_report.pdf
+
+hld_document.pdf
+
+lld_document.pdf
+
+pipeline_architecture.pdf
+
+final_report.pdf
+
+| Component       | Tools/Libraries                 |
+| --------------- | ------------------------------- |
+| Language        | Python 3.x                      |
+| Data Processing | Pandas, NumPy                   |
+| ML Models       | Scikit-learn, XGBoost, LightGBM |
+| Visualizations  | Matplotlib, Seaborn             |
+| Deployment      | Streamlit                       |
+| Version Control | Git + GitHub                    |
+
