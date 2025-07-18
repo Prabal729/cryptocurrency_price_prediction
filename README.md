@@ -84,16 +84,16 @@ cryptocurrency_price_prediction/
 
 ## 📸  Architecture
 
-## 🚀 Objective
+## 🧱 High-Level Design (HLD)
 <img src="reports/images/HLD.png" width="750"/>
 
-## 🚀 Objective
+## 🛠️ Low-Level Design (LLD)
 <img src="reports/images/LLD.png" width="750"/>
 
-## 🚀 Objective
+## 🔁 Pipeline Architecture
 <img src="reports/images/pip.png" width="750"/>
 
-## 🚀 Objective
+## 📊 Model Performance (XGBoost)
 | Metric | Before Tuning | After Tuning  |
 | ------ | ------------- | ------------- |
 | MAE    | 1730.02       | ✅ **1211.72** |
