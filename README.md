@@ -110,6 +110,7 @@ pipeline_architecture.pdf
 
 final_report.pdf
 
+#✨ Tech Stack
 | Component       | Tools/Libraries                 |
 | --------------- | ------------------------------- |
 | Language        | Python 3.x                      |
