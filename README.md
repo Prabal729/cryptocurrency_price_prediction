@@ -49,6 +49,8 @@ streamlit run app.py
 ```
 4. **Provide Input**
 Use the sidebar to enter numerical features. Get live predictions using the trained XGBoost model.
+
+📁 Project Structure
 ```
 cryptocurrency_price_prediction/
 ├── data/
@@ -79,3 +81,11 @@ cryptocurrency_price_prediction/
 └── README.md
 
 ```
+
+Architecture & Design
+High-Level Design (HLD):
+<img src="reports/images/HLD.png" width="750"/>
+🛠️ Low-Level Design (LLD)
+<img src="reports/images/LLD.png" width="750"/>
+🔁 Pipeline Architecture
+<img src="reports/images/pip.png" width="750"/>
