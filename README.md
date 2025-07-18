@@ -127,11 +127,9 @@ While hyperparameter tuning can enhance model performance, it doesn't always lea
 ## ✅ Conclusion
 This project demonstrates a full machine learning pipeline for predicting cryptocurrency liquidity using historical market data. The solution includes:
 
-End-to-end preprocessing and feature engineering
-
-Comparative evaluation of multiple regression models
-
-Final deployment via a user-friendly Streamlit interface
+- End-to-end preprocessing and feature engineering
+- Comparative evaluation of multiple regression models
+- Final deployment via a user-friendly Streamlit interface
 
 The XGBoost model emerged as the most effective predictor based on MAE and RMSE metrics. However, despite rigorous hyperparameter tuning, we observed that tuning did not always yield significant improvements—a reminder that data quality, feature relevance, and domain knowledge often outweigh purely algorithmic optimization.
 
