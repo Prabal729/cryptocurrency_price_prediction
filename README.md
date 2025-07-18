@@ -82,9 +82,12 @@ cryptocurrency_price_prediction/
 
 ```
 
-Architecture & Design
-High-Level Design (HLD):
+**Architecture & Design**
+
+*High-Level Design (HLD):*
+```
 <img src="reports/images/HLD.png" width="750"/>
+```
 🛠️ Low-Level Design (LLD)
 <img src="reports/images/LLD.png" width="750"/>
 🔁 Pipeline Architecture
