@@ -82,7 +82,7 @@ cryptocurrency_price_prediction/
 
 ```
 
-##📸 Architecture & Design
+## 📸  Architecture
 
 #🧱 High-Level Design (HLD):
 <img src="reports/images/HLD.png" width="750"/>
