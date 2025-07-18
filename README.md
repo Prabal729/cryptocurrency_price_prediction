@@ -84,15 +84,16 @@ cryptocurrency_price_prediction/
 
 ## 📸  Architecture
 
-🧱 High-Level Design (HLD):
+## 🚀 Objective
 <img src="reports/images/HLD.png" width="750"/>
 
-🛠️ Low-Level Design (LLD)
+## 🚀 Objective
 <img src="reports/images/LLD.png" width="750"/>
 
-🔁 Pipeline Architecture
+## 🚀 Objective
 <img src="reports/images/pip.png" width="750"/>
 
+## 🚀 Objective
 | Metric | Before Tuning | After Tuning  |
 | ------ | ------------- | ------------- |
 | MAE    | 1730.02       | ✅ **1211.72** |
