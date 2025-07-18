@@ -99,18 +99,16 @@ cryptocurrency_price_prediction/
 | RMSE   | 6870.40       | ✅ **5203.52** |
 | R²     | -0.8996       | ✅ **-0.0897** |
 
-📚 Key Reports
-eda_report.pdf
+## 📚 Key Reports
 
-hld_document.pdf
+-eda_report.pdf
+-hld_document.pdf
+-lld_document.pdf
+-pipeline_architecture.pdf
+-final_report.pdf
 
-lld_document.pdf
+## ✨ Tech Stack
 
-pipeline_architecture.pdf
-
-final_report.pdf
-
-#✨ Tech Stack
 | Component       | Tools/Libraries                 |
 | --------------- | ------------------------------- |
 | Language        | Python 3.x                      |
